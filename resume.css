@@ -1,0 +1,195 @@
+body{
+    overflow: hidden;
+}
+.resume{
+    height: 735px;
+}
+.res1{
+    position: relative;
+    left:250px;
+    height: 735px;
+    width: 350px;
+    background-color: rgb(27, 3, 89);
+}
+.img{
+   
+    position: relative;
+    top: 35px;
+    left:75px;
+}
+#img1{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.contact{
+    color: aliceblue;
+    position: relative;
+    left: 100px;
+    top:50px;
+}
+#cn{
+    font-size: 2em;
+}
+#pn{
+    font-size:1.2em;
+    text-transform: capitalize;
+}
+#pnn{
+    font-size: 1em;
+    position: relative;
+    top: -15px;
+}
+.mail{
+    position: relative;
+    top: 5px;
+}
+#mail{
+    font-size:1.2em;
+    text-transform: capitalize;
+}
+.address{
+    position: relative;
+    top: 25Px;
+    }
+#add{
+    font-size:1.2em;
+    text-transform: capitalize;
+}
+#add1{
+    position: relative;
+    top:-15px;
+    height: 2px;
+    width: 250px;
+    text-transform: capitalize;
+}
+.res2{
+    height: 735px;
+    width: 750px;
+    background-color:rgb(228, 227, 227);
+    position: relative;
+    top: -735px;
+    left:600px;
+}
+.name{
+    position: relative;
+    top:75px;
+    left:50px;
+}
+#name{
+    font-family: monospace;
+    font-size: 2.5em;
+}
+#occ{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    word-spacing: 2.5px;
+    position: relative;
+    top:5px;
+    left:5px;
+}
+.obj{
+    position: relative;
+    top:150px;
+    left: 50px;
+    height: 50px;
+    width:300px;
+}
+#obj2{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+   
+}
+.edu{
+    position: relative;
+    top:315px;
+    left: 50px;
+    height: 50px;
+    width:300px;
+}
+#edu2{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+#edu4{
+    font-size: 1em;
+    text-transform: uppercase;
+}
+#edu5{
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.skills{
+    position: relative;
+    top:400px;
+    left: 50px;
+    height: 50px;
+    width:300px;
+}
+#sk2{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.res3{
+    position: relative;
+    top:-1250px;
+    left:1050px;
+}
+.project{
+    height: 50px;
+    width:200px;
+}
+#pr1{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.pr{
+    position: relative;
+    top:25px;
+}
+#pr2{
+    text-transform: capitalize;
+}
+#pr3{
+    text-transform: capitalize;
+}
+#pr4{
+    text-transform: capitalize;
+}
+.exp{
+    position: relative;
+    top:125px;
+    left:10px;
+    height: 50px;
+    width:200px;
+}
+#exp1{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+#exp2{
+    position: relative;
+    top: 10px;
+    font-size: 1.2em;
+    text-transform: capitalize;
+
+}
+.ach{
+    position: relative;
+    top:170px;
+    left:10px;
+    height: 50px;
+    width:200px;
+}
+#ach1{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+}
